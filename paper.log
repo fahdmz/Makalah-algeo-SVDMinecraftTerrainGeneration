@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.12)  24 DEC 2025 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.12)  24 DEC 2025 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -446,9 +446,9 @@ rain
  []
 
 [7 <./metrics_analysis.png>] [8]
-Underfull \hbox (badness 4353) in paragraph at lines 824--825
-[]\OT1/ptm/b/n/10 Video Demon-stra-tion: $\OT1/ptm/m/n/10 https : / / youtube .
- com / watch ? v =
+Underfull \hbox (badness 10000) in paragraph at lines 823--824
+[]\OT1/ptm/b/n/10 GitHub Repos-i-tory: $\OT1/ptm/m/n/10 https : / / github . co
+m / fahdmz /
  []
 
 
@@ -517,7 +517,7 @@ onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/
 type1/urw/times/utmbi8a.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type
 1/urw/times/utmr8a.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on paper.pdf (10 pages, 2063695 bytes).
+Output written on paper.pdf (10 pages, 2063694 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
